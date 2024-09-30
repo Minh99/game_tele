@@ -83,13 +83,12 @@ import concurrent.futures
 from get_proxy import Proxy
 
 if __name__ == '__main__':
-    # api_key = 'x586croimb70qwqp5irnjpevmbq3l9269ez3v3md'
-    api_key2 = 'uafyqc1yh7925zik7hc6yxvvyg2c5ph01clm2lu3'
+    api_key2 = ''
     
     # proxies1 = []
     # proxies2 = Proxy(api_key2).get_proxies()
    
-    proxies = ['43.228.237.55:6001', '91.123.11.130:6396', '92.112.238.217:7096', '104.239.3.107:6067', '85.198.36.21:5658', '104.239.19.140:6817', '45.249.106.214:5911', '45.43.191.192:6153', '92.112.236.32:6464', '172.98.178.9:6082', '216.74.80.247:6819', '84.247.60.162:6132', '45.41.173.225:6592', '107.181.128.230:5242', '103.99.34.106:6721']
+    proxies = []
 
     start_port = 9223
     
